@@ -26,6 +26,7 @@ import de.hdodenhof.circleimageview.CircleImageView;
 
 public class DataListAdapter extends RecyclerView.Adapter {
     public List<ResponsePostData.DataList> data;
+    public List<ResponsePostData.DataList> hgvghgvhvhjvbjbvjbvjbvhvhvhgv;
     private Context mContext;
     private ArrayList<String> past_iame_array = new ArrayList<>();
 
