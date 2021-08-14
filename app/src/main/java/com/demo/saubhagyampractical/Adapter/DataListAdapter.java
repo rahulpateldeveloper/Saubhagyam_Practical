@@ -23,7 +23,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import de.hdodenhof.circleimageview.CircleImageView;
-
+//rgert
 public class DataListAdapter extends RecyclerView.Adapter {
     public List<ResponsePostData.DataList> data;
     public List<ResponsePostData.DataList> hgvghgvhvhjvbjbvjbvjbvhvhvhgv;
