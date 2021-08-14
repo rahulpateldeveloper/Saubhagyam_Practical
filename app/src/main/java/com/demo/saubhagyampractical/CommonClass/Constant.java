@@ -1,5 +1,5 @@
 package com.demo.saubhagyampractical.CommonClass;
-
+//comment
 public class Constant {
     public static final String WEBSERVICE_PATH = "https://www.dipicious.com/dipicious/api/user/";
     public static final String WEBSERVICE_API_PATH = "global_post_listing";
